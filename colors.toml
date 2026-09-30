@@ -1,0 +1,43 @@
+[theme]
+mode = "dark"
+
+[colors]
+# Базовые поверхности (Основа Tokyo Night Storm)
+background = "#1a1b26"          # Основной глубокий фон
+dark_background = "#16161e"     # Тёмный фон для панелей
+darker_background = "#0f0f14"   # Глубокий фон для Hyprlock
+lighter_background = "#24283b"  # Светлый фон для активных элементов
+selection = "#292e42"           # Цвет выделения текста
+
+# Границы окон (Обязательный параметр для Omarchy)
+border = "#24283b"              # Цвет неактивной рамки окон
+
+# Текст и акценты (Замороженный Nord Frost)
+foreground = "#d8dee9"          # Основной текст
+light_foreground = "#e5e9f0"    # Светлый читаемый текст
+bright_foreground = "#eceff4"   # Белоснежный текст
+dark_foreground = "#4c566a"     # Тёмный текст
+
+accent = "#88c0d0"              # Главный акцент: Арктический голубой
+accent_dim = "#81a1c1"          # Второстепенный акцент
+muted = "#4c566a"               # Приглушенный цвет
+
+# Палитра ANSI-цветов для терминалов и приложений
+[terminal]
+black = "#1a1b26"
+red = "#bf616a"
+green = "#a3be8c"
+yellow = "#ebcb8b"
+blue = "#81a1c1"
+magenta = "#b48ead"
+cyan = "#88c0d0"
+white = "#e5e9f0"
+
+bright_black = "#4c566a"
+bright_red = "#bf616a"
+bright_green = "#a3be8c"
+bright_yellow = "#ebcb8b"
+bright_blue = "#8fbcbb"
+bright_magenta = "#b48ead"
+bright_cyan = "#88c0d0"
+bright_white = "#eceff4"
