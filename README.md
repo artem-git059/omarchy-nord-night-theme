@@ -6,7 +6,6 @@ A cool theme that combines "nord" and "tokyo night". It blends the deep storm ba
 ## 📥 Installation
 
 ```bash
-git clone https://github.com ~/.config/omarchy/themes/nord-night
 omarchy-theme-install https://github.com/artem-git059/omarchy-nord-night-theme
 ```
 
